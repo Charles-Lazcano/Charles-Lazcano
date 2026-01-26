@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">Passionate in Computer Science</h3>
 
-- 🔭 I’m currently working on [Tennis Predictor](https://tennis-predictor-app.streamlit.app)
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **charleslaz360@gmail.com**
